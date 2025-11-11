@@ -1,0 +1,21 @@
+id;name;category;subcategory;description;brand;price;stock;rating
+1;Tłok 82mm do Yamaha Raptor 700;Silnik;Tłoki;Tłok kuty o zwiększonej wytrzymałości;Yamaha;350.00;10;4.8
+2;Filtr powietrza K&N do Polaris;Silnik;Filtry powietrza;Wysokoprzepływowy filtr sportowy;K&N;180.00;15;4.7
+3;Olej silnikowy Motul 10W-40;Silnik;Olej silnikowy;Olej syntetyczny dedykowany do quadów;Motul;120.00;30;4.9
+4;Zestaw uszczelnień Athena do Yamahy;Silnik;Uszczelki;Uszczelki do remontu silnika;Athena;280.00;8;4.5
+5;Pasek napędowy Gates do Can-Am;Układ napędowy;Paski napędowe;Wzmocniony pasek do napędu CVT;Gates;420.00;8;4.6
+6;Łańcuch DID 520 ATV;Układ napędowy;Łańcuchy;Wytrzymały łańcuch z uszczelnieniem X-ring;DID;320.00;10;4.8
+7;Zębatka przednia Renthal 15T;Układ napędowy;Zębatki;Zębatka wzmacniana do jazdy terenowej;Renthal;140.00;12;4.7
+8;Olej przekładniowy Motul Gearbox 75W-90;Układ napędowy;Olej przekładniowy;Olejek do skrzyń biegów i przekładni;Motul;90.00;15;4.9
+9;Amortyzator FOX 2.0 do ATV;Zawieszenie;Amortyzatory;Regulowany amortyzator gazowy;FOX;1200.00;5;5.0
+10;Wahacz aluminiowy Lonestar Racing;Zawieszenie;Wahacze;Lekki i wytrzymały wahacz do wyścigów;Lonestar Racing;1400.00;4;4.6
+11;Opona terenowa Maxxis Bighorn 25x10-12;Koła i opony;Opony;Opona AT na każde warunki;Maxxis;650.00;12;4.8
+12;Opona błotna ITP Mud Lite XL 26x12-12;Koła i opony;Opony;Opona błotna z agresywnym bieżnikiem;ITP;700.00;9;4.9
+13;"Felga aluminiowa DWT Beadlock 14""";Koła i opony;Felgi;Felga do jazdy w ekstremalnych warunkach;DWT;550.00;6;4.7
+14;Tarcza hamulcowa Galfer Wave;Układ hamulcowy;Tarcze hamulcowe;Lekka tarcza poprawiająca chłodzenie;Galfer;380.00;10;4.6
+15;Klocki hamulcowe EBC do Suzuki;Układ hamulcowy;Klocki hamulcowe;Wysokiej jakości klocki sinterowane;EBC;200.00;20;4.5
+16;Płyn hamulcowy Motul DOT 5.1;Układ hamulcowy;Płyny hamulcowe;Wysokowydajny płyn hamulcowy;Motul;60.00;15;4.9
+17;Pompa hamulcowa Brembo;Układ hamulcowy;Pompy hamulcowe;Profesjonalna pompa do quadów sportowych;Brembo;650.00;5;5.0
+18;Wyciągarka 4500lbs z pilotem;Akcesoria i tuning;Wyciągarki;Elektryczna wyciągarka linowa 12V;T-Max;900.00;7;4.7
+19;Osłony podwozia z aluminium;Akcesoria i tuning;Osłony;Zestaw osłon do jazdy w terenie;Ricochet;750.00;8;4.6
+20;"LED bar 20"" do quada";Akcesoria i tuning;Oświetlenie;Mocne światło LED do jazdy nocnej;X-Light;480.00;10;4.8
